@@ -1,0 +1,17 @@
+package com.cgi.main.msg;
+
+import java.util.Date;
+
+public class CustomMessage {
+	private int  messageId;
+	private String message;
+	private Date messageDate;
+	
+	public CustomMessage() {
+		super();
+	}	
+	
+	
+	
+	
+}

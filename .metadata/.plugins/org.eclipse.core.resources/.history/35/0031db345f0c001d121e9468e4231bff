@@ -1,0 +1,5 @@
+package com.cgi.main.msg;
+
+public class MQConfig {
+
+}
